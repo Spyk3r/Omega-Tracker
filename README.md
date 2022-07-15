@@ -24,8 +24,9 @@ python3 omega.py
 
 
 # Testeado en:
-Kali Linux: ✔
-Termux: ✔
+-Kali Linux: ✔
+
+-Termux: ✔
 
 # Contacto
 -GoldenDark-#5767
