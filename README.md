@@ -17,7 +17,7 @@ git clone https://github.com/G0ldenD4rk/Omega-Tracker.git
 ```
 cd Omega-Tracker
 ```
-**Y ahora para iniciar la herramienta pondremos:**
+**Comando para iniciar la herramienta:**
 ```
 python3 omega.py
 ```
