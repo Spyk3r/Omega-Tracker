@@ -21,3 +21,11 @@ cd Omega-Tracker
 ```
 python3 omega.py
 ```
+
+
+# Testeado en:
+Kali Linux: ✔
+Termux: ✔
+
+# Contacto
+-GoldenDark-#5767
