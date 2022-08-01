@@ -32,4 +32,4 @@ python3 omega.py
 -Termux: ✔
 
 # Contacto
--Golden-#5767
+-G O L D E N-#5767
