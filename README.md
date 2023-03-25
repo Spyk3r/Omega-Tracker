@@ -31,5 +31,5 @@ python3 omega.py
 
 -Termux: ✔
 
-# Contacto
-! Spyk3r#0666
+# Contacto (Discord)
+! Spyk3r#0614
