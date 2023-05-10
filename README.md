@@ -15,7 +15,7 @@ apt install python3 -y
 pip install requests
 ```
 ```
-git clone https://github.com/G0ldenD4rk/Omega-Tracker.git
+git clone https://github.com/Spyk3r/Omega-Tracker.git
 ```
 ```
 cd Omega-Tracker
